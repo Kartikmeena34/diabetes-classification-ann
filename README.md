@@ -1,6 +1,6 @@
 # Diabetes Classifier — ANN Classification
 
-Predicts whether a patient has diabetes using an ANN built with PyTorch.
+Predicts whether a patient has diabetes or not using an ANN built with PyTorch.
 
 ## Features
 Pregnancies, Glucose, BloodPressure, SkinThickness,
